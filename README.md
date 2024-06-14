@@ -3,6 +3,9 @@
 A simple writting experience built using .NET
 
 
+![Screenshot](/writter-screenshot.jpg)
+
+
 
 ### Develop
 
@@ -14,7 +17,7 @@ Download and setup
 
 Install a database with SQL Express, then change the connection string in `appsettings.json`. 
 
-To build the database scheam, apply the migrations. 
+To build the database schema, apply the migrations
 
 ```bash
 dotnet ef database update
